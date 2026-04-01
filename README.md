@@ -77,10 +77,10 @@ A **Full-Stack Developer** 💻 and **Problem Solver** 🧩 | Passionate about c
 
 ---
 
-## 📈 **Activity Graph**
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=heyrajveer&theme=github-dark&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyrajveer&theme=github-dark&hide_border=true" />
 </p>
 
 ---
