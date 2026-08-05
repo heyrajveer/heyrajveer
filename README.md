@@ -1,171 +1,308 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Rajveer%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Python%20%26%20MERN%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Rajveer%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Python%20Developer%20|%20MERN%20Developer%20|%20AI%20Explorer&descAlignY=58"/>
 
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=720&lines=Building+Scalable+Backend+Applications;Full+Stack+MERN+Developer;Exploring+Generative+AI+%26+AI+Agents;Passionate+About+System+Design;Always+Learning+New+Technologies"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+scalable+Python+%26+ETL+systems;Crafting+full-stack+MERN+applications;Exploring+Generative+AI+%26+AI+Agents;Turning+complex+problems+into+clean+code" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=heyrajveer&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/heyrajveer?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=heyrajveer&style=for-the-badge&color=0891b2"/>
 
 </div>
 
 ---
 
-## 🧭 About Me
+# 🚀 About Me
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8892B0&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Software+Engineer+focused+on+banking+%26+financial+data+systems;Turning+messy+data+into+clean%2C+trustworthy+ETL+pipelines;MERN+stack+developer+with+a+growing+focus+on+AI+agents" />
-</div>
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-<br/>
+### 👨‍💻 Software Engineer
 
-<div align="center">
+I enjoy building scalable software that solves real-world problems.
 
-| | |
-|:---|:---|
-| 🎯 **Role** | Software Engineer — Banking & Financial Data Systems |
-| 🧰 **Core Stack** | `Python` `MERN` `SQL Server` `ETL Pipelines` |
-| 🔭 **Exploring Now** | `Generative AI` `AI Agents` `LangChain` `MCP` `Docker` |
-| 💡 **Philosophy** | Clean, scalable, maintainable code — always |
+My interests span backend development, full-stack web applications,
+system design, cloud technologies, and the rapidly growing field of
+Artificial Intelligence.
 
-</div>
+Currently, I'm expanding my knowledge in AI Agents, LangChain, MCP,
+Docker, and modern cloud-native development while continuously improving
+my DSA and software engineering skills.
 
-<br/>
+### 💡 Quick Facts
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="50%">
-
-### 💼 What I Do
-- 🏦 Build **banking & financial data validation systems**
-- 🐍 Design enterprise-grade **Python ETL pipelines**
-- 🗄️ Work deeply with **MSSQL Server & ODBC integration**
-- 🌐 Ship full-stack apps with the **MERN stack**
-- 🤖 Explore **AI Agents, RAG & prompt engineering**
-
-</td>
-<td valign="top" width="50%">
-
-### 🌱 Right Now
-- 📚 Learning **RAG, LangChain & MCP**
-- 🐳 Getting hands-on with **Docker & cloud deployment**
-- 🔷 Leveling up **TypeScript & advanced React**
-- 🏗️ Studying **System Design**
-- 🧠 Sharpening DSA on **LeetCode**
-
-</td>
-</tr>
-</table>
+- 🐍 Python Developer
+- 🌐 MERN Stack Developer
+- ⚡ Backend Enthusiast
+- 🤖 AI Explorer
+- 📚 Lifelong Learner
+- 🎯 Clean Code Advocate
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🛠 Tech Stack
 
-<div align="center">
+## 💻 Languages
 
-**Languages & Core**
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css"/>
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,redux&theme=dark" />
-
-**Backend & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mssql,mongodb,postgres&theme=dark" />
-
-**AI, Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_2.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-**Python Ecosystem:** `Pandas` `NumPy` `OpenPyXL` `PyODBC` `Regex` `Tkinter`
-**ETL & Data Engineering:** Data Validation Frameworks · Bulk Excel/CSV Processing · SQL Schema Validation · Banking Data Quality · Report Generation
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁ Tools & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 <div align="center">
+
+| 🚀 Learning | 📖 Exploring |
+|------------|--------------|
+| 🤖 Generative AI | 🔗 LangChain |
+| 🧠 AI Agents | ⚡ MCP |
+| 🐳 Docker | ☁ Cloud Computing |
+| 🏗 System Design | 🔥 Advanced React |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
 <table>
+
 <tr>
+
 <td width="50%">
 
-### 🏦 Enterprise ETL & Data Validation
-Python-powered engine for banking-grade data quality - ODBC-linked to MSSQL, with dynamic schema validation, bulk Excel/CSV checks, a desktop GUI, and automated report generation.
+## 🏦 Enterprise Data Validation Framework
 
-`Python` `ODBC` `SQL Server` `Tkinter`
+✔ Dynamic Data Validation
+
+✔ Bulk CSV & Excel Processing
+
+✔ SQL Server Integration
+
+✔ Report Generation
+
+✔ Desktop GUI
+
+**Tech**
+
+`Python`
+
+`SQL Server`
+
+`ODBC`
+
+`Tkinter`
 
 </td>
+
 <td width="50%">
 
-### 🌐 MERN Full-Stack Applications
-End-to-end web apps with secure authentication, REST APIs, and clean CRUD flows - React front end, Express/Node backend, MongoDB persistence.
+## 🌐 MERN Applications
 
-`React` `Express` `MongoDB` `REST API`
+✔ Authentication
+
+✔ REST APIs
+
+✔ CRUD
+
+✔ Responsive UI
+
+✔ Backend Architecture
+
+**Tech**
+
+`React`
+
+`Node`
+
+`Express`
+
+`MongoDB`
 
 </td>
+
 </tr>
+
 </table>
-</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🤖 AI Projects
+
+Currently building projects around
+
+- AI Agents
+- LangChain
+- MCP
+- RAG
+- LLM Applications
+- Prompt Engineering
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heyrajveer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrajveer&layout=compact&hide_border=true&theme=tokyonight&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" width="42%"/>
+## ⚡ "Learning Never Stops."
 
-<img src="https://streak-stats.demolab.com/?user=heyrajveer&hide_border=true&theme=tokyonight&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" width="70%"/>
+</div>
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=heyrajveer&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="95%"/>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=heyrajveer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrajveer&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-> ⚠️ **Note:** the three widgets above are served by free, community-run instances (Vercel/demolab). They occasionally rate-limit or go down for a few minutes - if one shows a broken-image icon, just refresh the GitHub page after a bit. See the note at the bottom of this file for a permanent fix.
+<br>
+
+<div align="center">
+
+<img width="72%" src="https://streak-stats.demolab.com?user=heyrajveer&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=heyrajveer&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyrajveer&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyrajveer&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyrajveer&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyrajveer&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyrajveer&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+---
+
+# 💻 Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,vscode,git,github,docker,npm,nodejs,python,mongodb,postgres,mysql"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/heyrajveer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/hey-rajveer-kumar/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:rajveer.kumar.ug21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8892B0&center=true&vCenter=true&width=600&lines=Building+scalable+software%2C+solving+real-world+problems%2C+and+continuously+learning+AI-driven+tech." />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+---
+
+# 💭 Quote
+
+<div align="center">
+
+> **"Code with purpose. Learn with curiosity. Build with impact."** 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing!;Keep+Learning+Keep+Growing!"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+
+</div>sbhi cheejo ko centre me kre and  github summary and snake wala show nhi rja he usko fix kro
