@@ -43,7 +43,7 @@ my DSA and software engineering skills.
 
 ## 💻 Languages
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css"/>
 
@@ -53,7 +53,7 @@ my DSA and software engineering skills.
 
 ## 🎨 Frontend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind"/>
 
@@ -63,7 +63,7 @@ my DSA and software engineering skills.
 
 ## ⚙ Backend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 
@@ -73,7 +73,7 @@ my DSA and software engineering skills.
 
 ## 🗄 Database
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 
@@ -85,7 +85,7 @@ my DSA and software engineering skills.
 
 ## ☁ Tools & DevOps
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm"/>
 
@@ -110,7 +110,7 @@ my DSA and software engineering skills.
 
 # 🚀 Featured Projects
 
-<table>
+<table align="center">
 
 <tr>
 
@@ -194,13 +194,7 @@ Currently building projects around
 
 # 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=heyrajveer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrajveer&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <br>
 
@@ -220,35 +214,6 @@ Currently building projects around
 
 </div>
 
----
-
-# 🏆 GitHub Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyrajveer&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyrajveer&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyrajveer&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyrajveer&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyrajveer&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
 ---
 
 # 💻 Development Environment
