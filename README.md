@@ -305,4 +305,4 @@ Currently building projects around
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
 
-</div>sbhi cheejo ko centre me kre and  github summary and snake wala show nhi rja he usko fix kro
+</div>
