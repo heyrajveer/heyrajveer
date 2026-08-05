@@ -1,241 +1,181 @@
-# 👋 Hi there! I'm Rajveer Kumar
+<div align="center">
 
-# 💻 Software Engineer | Python Developer | Full-Stack Developer | AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Rajveer%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Python%20%26%20MERN%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-Passionate about building **scalable software, data validation systems, ETL pipelines, AI-powered applications, and modern web solutions.** I enjoy solving complex engineering problems and continuously learning emerging technologies.
+<br/>
 
----
-
-# 🚀 About Me
-
-* 💼 Software Engineer with experience in **Python, MERN Stack, and Backend Development**
-* 🏦 Worked on **Banking & Financial Data Validation Systems**
-* 🐍 Built enterprise-grade **Python ETL and Data Validation Tools**
-* 🗄️ Experienced with **Microsoft SQL Server, ODBC, and Database Integration**
-* 🤖 Exploring **Generative AI, AI Agents, and AI-assisted Development**
-* 🧩 Strong problem-solving skills with **Data Structures & Algorithms**
-* 🌱 Passionate about writing clean, scalable, and maintainable code
-
----
-
-# 🛠️ Tech Stack & Skills
-
-## Frontend
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
----
-
-## Backend
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
----
-
-## Databases
-
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## Python Ecosystem
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyODBC-006699?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Regex-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge"/>
-</p>
-
----
-
-## ETL & Data Engineering
-
-* ETL Development
-* Data Validation Frameworks
-* Bulk Data Processing
-* Excel & CSV Processing
-* ODBC Integration
-* SQL Schema Validation
-* Data Cleaning
-* Banking Data Validation
-* Report Generation
-
----
-
-## Banking Domain
-
-* Banking Data Validation
-* Customer Data Processing
-* Financial Data Quality
-* Batch Processing
-* Regulatory Data Validation
-* Enterprise Data Migration
-* SQL-based Validation Systems
-
----
-
-## Programming Languages
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-## AI & Modern Development
-
-<p align="center">
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github"/>
-</p>
-
-### AI Tools & Platforms
-
-* ChatGPT
-* Claude (Opus & Sonnet)
-* Gemini 2.5 Pro
-* Cursor AI
-* GitHub Copilot
-* Anthropic Claude
-* AI-assisted Software Development
-* Prompt Engineering
-
----
-
-## Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
----
-
-# 💼 Featured Projects
-
-### 🏦 Enterprise ETL & Data Validation System
-
-* Python-based ETL application
-* ODBC Integration with Microsoft SQL Server
-* Dynamic SQL Schema Validation
-* Bulk Excel & CSV Validation
-* Banking Data Validation
-* Enterprise GUI Application
-* Report Generation
-* High-performance Data Processing
-
----
-
-### 🌐 MERN Stack Applications
-
-* Authentication Systems
-* REST APIs
-* CRUD Applications
-* Responsive UI
-* MongoDB Integration
-* Express Backend
-* React Frontend
-
----
-
-# 📈 Currently Learning
-
-* Generative AI
-* RAG (Retrieval-Augmented Generation)
-* AI Agents
-* LangChain
-* MCP (Model Context Protocol)
-* Docker
-* Cloud Deployment
-* TypeScript
-* Advanced React Patterns
-* System Design
-
----
-
-# 🏆 Competitive Programming
-
-* Data Structures & Algorithms
-* C++
-* Dynamic Programming
-* Graph Algorithms
-* Problem Solving
-* LeetCode
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=heyrajveer&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrajveer&theme=tokyonight&layout=compact&hide_border=true" width="48%">
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heyrajveer&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyrajveer&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/heyrajveer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+scalable+Python+%26+ETL+systems;Crafting+full-stack+MERN+applications;Exploring+Generative+AI+%26+AI+Agents;Turning+complex+problems+into+clean+code" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=heyrajveer&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/heyrajveer?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🧭 About Me
+
+```python
+class RajveerKumar:
+    def __init__(self):
+        self.role = "Software Engineer @ Banking & Financial Data Systems"
+        self.stack = ["Python", "MERN", "SQL Server", "ETL Pipelines"]
+        self.currently_exploring = ["Generative AI", "AI Agents", "LangChain", "MCP", "Docker"]
+        self.philosophy = "Clean, scalable, maintainable code — always."
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great! 🚀")
+
+me = RajveerKumar()
+me.say_hi()
+```
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 💼 What I Do
+- 🏦 Build **banking & financial data validation systems**
+- 🐍 Design enterprise-grade **Python ETL pipelines**
+- 🗄️ Work deeply with **MSSQL Server & ODBC integration**
+- 🌐 Ship full-stack apps with the **MERN stack**
+- 🤖 Explore **AI Agents, RAG & prompt engineering**
+
+</td>
+<td valign="top" width="50%">
+
+### 🌱 Right Now
+- 📚 Learning **RAG, LangChain & MCP**
+- 🐳 Getting hands-on with **Docker & cloud deployment**
+- 🔷 Leveling up **TypeScript & advanced React**
+- 🏗️ Studying **System Design**
+- 🧠 Sharpening DSA on **LeetCode**
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,redux&theme=dark" />
+
+**Backend & Runtime**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mssql,mongodb,postgres&theme=dark" />
+
+**AI, Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_2.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+**Python Ecosystem:** `Pandas` `NumPy` `OpenPyXL` `PyODBC` `Regex` `Tkinter`
+**ETL & Data Engineering:** Data Validation Frameworks · Bulk Excel/CSV Processing · SQL Schema Validation · Banking Data Quality · Report Generation
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 Enterprise ETL & Data Validation
+Python-powered engine for banking-grade data quality — ODBC-linked to MSSQL, with dynamic schema validation, bulk Excel/CSV checks, a desktop GUI, and automated report generation.
+
+`Python` `ODBC` `SQL Server` `Tkinter`
+
+</td>
+<td width="50%">
+
+### 🌐 MERN Full-Stack Applications
+End-to-end web apps with secure authentication, REST APIs, and clean CRUD flows — React front end, Express/Node backend, MongoDB persistence.
+
+`React` `Express` `MongoDB` `REST API`
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=heyrajveer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrajveer&layout=compact&hide_border=true&theme=tokyonight&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" width="42%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heyrajveer&hide_border=true&theme=tokyonight&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyrajveer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=heyrajveer&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="95%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/heyrajveer/heyrajveer/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>💡 Snake animation auto-generates once the <code>generate-snake.yml</code> GitHub Action is added to this repo</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/heyrajveer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/hey-rajveer-kumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="mailto:rajveer.kumar.ug21@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hey-rajveer-kumar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<br/><br/>
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8892B0&center=true&vCenter=true&width=600&lines=Building+scalable+software%2C+solving+real-world+problems%2C+and+continuously+learning+AI-driven+tech." />
 
----
+</div>
 
-<p align="center">
-
-### ⭐ *"Building scalable software, solving real-world problems, and continuously learning AI-driven technologies."*
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
