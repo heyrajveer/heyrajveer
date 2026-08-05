@@ -19,24 +19,26 @@
 
 ## 🧭 About Me
 
-```python
-class RajveerKumar:
-    def __init__(self):
-        self.role = "Software Engineer @ Banking & Financial Data Systems"
-        self.stack = ["Python", "MERN", "SQL Server", "ETL Pipelines"]
-        self.currently_exploring = ["Generative AI", "AI Agents", "LangChain", "MCP", "Docker"]
-        self.philosophy = "Clean, scalable, maintainable code - always."
-
-    def say_hi(self):
-        print("Thanks for stopping by - let's build something great!")
-
-me = RajveerKumar()
-me.say_hi()
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=8892B0&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Software+Engineer+focused+on+banking+%26+financial+data+systems;Turning+messy+data+into+clean%2C+trustworthy+ETL+pipelines;MERN+stack+developer+with+a+growing+focus+on+AI+agents" />
+</div>
 
 <br/>
 
-<table align="center">
+<div align="center">
+
+| | |
+|:---|:---|
+| 🎯 **Role** | Software Engineer — Banking & Financial Data Systems |
+| 🧰 **Core Stack** | `Python` `MERN` `SQL Server` `ETL Pipelines` |
+| 🔭 **Exploring Now** | `Generative AI` `AI Agents` `LangChain` `MCP` `Docker` |
+| 💡 **Philosophy** | Clean, scalable, maintainable code — always |
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
 <tr>
 <td valign="top" width="50%">
 
