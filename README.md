@@ -15,9 +15,7 @@
 
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+---
 
 ## 🧭 About Me
 
@@ -27,10 +25,10 @@ class RajveerKumar:
         self.role = "Software Engineer @ Banking & Financial Data Systems"
         self.stack = ["Python", "MERN", "SQL Server", "ETL Pipelines"]
         self.currently_exploring = ["Generative AI", "AI Agents", "LangChain", "MCP", "Docker"]
-        self.philosophy = "Clean, scalable, maintainable code — always."
+        self.philosophy = "Clean, scalable, maintainable code - always."
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something great! 🚀")
+        print("Thanks for stopping by - let's build something great!")
 
 me = RajveerKumar()
 me.say_hi()
@@ -63,7 +61,7 @@ me.say_hi()
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -102,7 +100,7 @@ me.say_hi()
 **Python Ecosystem:** `Pandas` `NumPy` `OpenPyXL` `PyODBC` `Regex` `Tkinter`
 **ETL & Data Engineering:** Data Validation Frameworks · Bulk Excel/CSV Processing · SQL Schema Validation · Banking Data Quality · Report Generation
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+---
 
 ## 🚀 Featured Projects
 
@@ -112,7 +110,7 @@ me.say_hi()
 <td width="50%">
 
 ### 🏦 Enterprise ETL & Data Validation
-Python-powered engine for banking-grade data quality — ODBC-linked to MSSQL, with dynamic schema validation, bulk Excel/CSV checks, a desktop GUI, and automated report generation.
+Python-powered engine for banking-grade data quality - ODBC-linked to MSSQL, with dynamic schema validation, bulk Excel/CSV checks, a desktop GUI, and automated report generation.
 
 `Python` `ODBC` `SQL Server` `Tkinter`
 
@@ -120,7 +118,7 @@ Python-powered engine for banking-grade data quality — ODBC-linked to MSSQL, w
 <td width="50%">
 
 ### 🌐 MERN Full-Stack Applications
-End-to-end web apps with secure authentication, REST APIs, and clean CRUD flows — React front end, Express/Node backend, MongoDB persistence.
+End-to-end web apps with secure authentication, REST APIs, and clean CRUD flows - React front end, Express/Node backend, MongoDB persistence.
 
 `React` `Express` `MongoDB` `REST API`
 
@@ -129,7 +127,7 @@ End-to-end web apps with secure authentication, REST APIs, and clean CRUD flows 
 </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+---
 
 ## 📊 GitHub Analytics
 
@@ -138,25 +136,15 @@ End-to-end web apps with secure authentication, REST APIs, and clean CRUD flows 
 <img src="https://github-readme-stats.vercel.app/api?username=heyrajveer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrajveer&layout=compact&hide_border=true&theme=tokyonight&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" width="42%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heyrajveer&hide_border=true&theme=tokyonight&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyrajveer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF" width="95%"/>
+<img src="https://streak-stats.demolab.com/?user=heyrajveer&hide_border=true&theme=tokyonight&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" width="70%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=heyrajveer&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="95%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+> ⚠️ **Note:** the three widgets above are served by free, community-run instances (Vercel/demolab). They occasionally rate-limit or go down for a few minutes - if one shows a broken-image icon, just refresh the GitHub page after a bit. See the note at the bottom of this file for a permanent fix.
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/heyrajveer/heyrajveer/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>💡 Snake animation auto-generates once the <code>generate-snake.yml</code> GitHub Action is added to this repo</sub>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+---
 
 ## 🤝 Let's Connect
 
